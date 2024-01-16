@@ -1,0 +1,148 @@
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.csproj.AssemblyReference.cache
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.AssemblyInfo.cs
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.RazorAssemblyInfo.cache
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.RazorAssemblyInfo.cs
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\appsettings.json
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.staticwebassets.runtime.json
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.exe
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.deps.json
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.runtimeconfig.json
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.pdb
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.Business.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.Core.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.DAL.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.Business.pdb
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.DAL.pdb
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Exam21.Core.pdb
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.Exam21.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.build.Exam21.props
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exam21.props
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exam21.props
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\scopedcss\bundle\Exam21.styles.css
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\scopedcss\projectbundle\Exam21.bundle.scp.css
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.csproj.CopyComplete
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.dll
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\refint\Exam21.dll
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.pdb
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\Exam21.genruntimeconfig.cache
+C:\Users\nihad\Desktop\React Core\Exam21\obj\Debug\net6.0\ref\Exam21.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nihad\Desktop\React Core\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.csproj.AssemblyReference.cache
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.AssemblyInfoInputs.cache
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.AssemblyInfo.cs
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.csproj.CoreCompileInputs.cache
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.RazorAssemblyInfo.cache
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.RazorAssemblyInfo.cs
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\refint\Exam21.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.pdb
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\appsettings.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.staticwebassets.runtime.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.exe
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.deps.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.runtimeconfig.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.pdb
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Humanizer.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.Business.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.Core.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.DAL.dll
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.Business.pdb
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.Core.pdb
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\bin\Debug\net6.0\Exam21.DAL.pdb
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.Exam21.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.build.Exam21.props
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Exam21.props
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Exam21.props
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\scopedcss\bundle\Exam21.styles.css
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\scopedcss\projectbundle\Exam21.bundle.scp.css
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.csproj.CopyComplete
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\Exam21.genruntimeconfig.cache
+C:\Users\nihad\Desktop\Exam2-16.01.2024\Exam21\obj\Debug\net6.0\ref\Exam21.dll
